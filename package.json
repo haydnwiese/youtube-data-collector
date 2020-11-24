@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/haydnwiese/youtube-data-collector/issues"
   },
-  "homepage": "https://github.com/haydnwiese/youtube-data-collector#readme"
+  "homepage": "https://github.com/haydnwiese/youtube-data-collector#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
 }
